@@ -1,3 +1,13 @@
+## 🗂️ About Me
+
+- 💻 Currently honing my skills in **Full-Stack Development** and **Machine Learning**
+- 🎓 Pursuing **M.Sc. in Computer Science** from **University of Calcutta** (2024–2026)
+- 🏫 Graduated in **B.Sc. Computer Science** from **Narasinha Dutt College**, University of Calcutta
+- 🤖 Built a real-time **Dog Emotion Detection App** using CNN, TensorFlow & Hugging Face
+- 🍽️ Developed **CRAVORY** — a full-stack Restaurant App on the **PERN Stack** with RESTful API
+- 🌿 Passionate about building projects at the intersection of **Web Dev** and **AI/ML**
+- ☁️ Certified in **Data Science (Oracle Cloud)** and **Generative AI (Google Cloud)**
+- 💡 Passionate about **Open Source** and creative problem-solving
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bipasha.mondal.3939) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im_bipasha_m/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bipasha-mondal-59aa60244) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bipasha Mondal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bipasham103@gmail.com) 
