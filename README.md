@@ -1,3 +1,5 @@
+### 👋 Hello, I'm Bipasha Mondal! ![Profile views](https://komarev.com/ghpvc/?username=Bipasha1003&color=blue)
+
 ## 🗂️ About Me:
 
 - 💻 Currently honing my skills in **Full-Stack Development** and **Machine Learning**
@@ -37,6 +39,7 @@
 
 ---
 
+[![](https://komarev.com/ghpvc/?username=Bipasha1003&icon=0&color=0)](https://visitcount.itsvg.in)
 [![](https://komarev.com/ghpvc/?username=Bipasha1003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
